@@ -1,6 +1,7 @@
-# Rock paper scissors game with voice command of player
+"""Rock paper scissors game with voice command of player"""
 import speech_recognition as sr
 from random import choice
+
 
 voice = ""
 elements = ['rock', 'paper', 'scissors']
