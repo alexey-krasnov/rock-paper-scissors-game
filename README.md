@@ -8,7 +8,7 @@ This package requires:
 - [speech_recognition ](https://pypi.org/project/SpeechRecognition/)
 
 ## Usage
-To start `rock-paper-scissors game` run:
+To start `rock-paper-scissors` game run:
 ```sh
 rsp_game_voice_input.py
 ```
