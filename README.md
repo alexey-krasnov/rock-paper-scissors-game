@@ -1,4 +1,4 @@
-# rock_scissors_paper_game
+# rock-paper-scissors game
 Rock-paper-scissors game with voice input of a command from a player
 
 ##  Prerequisites
@@ -8,7 +8,7 @@ This package requires:
 - [speech_recognition ](https://pypi.org/project/SpeechRecognition/)
 
 ## Usage
-To start `rock_scissors_paper_game` run:
+To start `rock-paper-scissors game` run:
 ```sh
 rsp_game_voice_input.py
 ```
