@@ -10,7 +10,7 @@ This package requires:
 ## Usage
 To start `rock-paper-scissors` game run:
 ```sh
-rsp_game_voice_input.py
+rps_game_voice_input.py
 ```
 You should say 'rock', 'paper' or 'scissors'. Then game generate own variant and print the round result.
 To quit fron the game say: 'stop'.
