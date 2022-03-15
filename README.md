@@ -1,4 +1,4 @@
-# rock-paper-scissors game
+# rock-paper-scissors-game
 Rock-paper-scissors game with voice input of a command from a player
 
 ##  Prerequisites
@@ -17,7 +17,7 @@ To quit fron the game say: 'stop'.
 
 ## Questions, bug reports, feature requests
 
-Please use the Github [issue tracker](https://github.com/alexey-krasnov/rock_scissors_paper_game/issues) for any questions, feature requests or bug reports.
+Please use the Github [issue tracker](https://github.com/alexey-krasnov/rock-paper-scissors-game/issues) for any questions, feature requests or bug reports.
 
 ## Author
 
